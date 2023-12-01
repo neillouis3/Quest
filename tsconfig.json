@@ -1,4 +1,15 @@
 {
-  "compilerOptions": {},
-  "extends": "expo/tsconfig.base"
+  
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+  },
+  "include": [
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.tß",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "app/(entry)/index.js" ]
 }
