@@ -4,7 +4,10 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function App() {
     return (
         <View style={styles.container}>
-            <Text>Centra</Text>
+            <Text>Quest</Text>
+            <Text>Login</Text>
+            <Text>Register</Text>
+
         </View>
     );
 }
