@@ -1,5 +1,6 @@
 import react from 'react';
 import { View, Text, StyleSheet } from 'react-native';
+import LoginBtn from '../components/LoginBtn';
 
 
 export default function App() {
