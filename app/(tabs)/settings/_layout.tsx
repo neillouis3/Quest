@@ -8,7 +8,7 @@ export default function Layout({  }) {
         <Stack>
         <Stack.Screen name="Settings" />
             <View
-                style={{styles.container}}
+                style={styles.container}
             >
 
             </View>
