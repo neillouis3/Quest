@@ -19,7 +19,7 @@ export default function Layout({  }) {
 
 // Path: Quest/app/%28tabs%29/settings/_layout.tsx
 
-styles = StyleSheet.create({
+const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: "#fff",
