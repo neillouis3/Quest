@@ -7,7 +7,11 @@ export default function Layout({  }) {
     return (
         <Stack>
         <Stack.Screen name="Settings" />
-            <View></View>
+            <View
+                style={{styles.contyainer}}
+            >
+
+            </View>
         </Stack>
     );
 
