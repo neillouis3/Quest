@@ -7,5 +7,8 @@ export default function Layout({  }) {
         <Stack.Screen name="Settings" />
         </Stack>
     );
+
 }
+
+export const _layout = Layout;
 
