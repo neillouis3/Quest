@@ -10,5 +10,5 @@ export default function Layout({  }) {
 
 }
 
-export const _layout = Layout;
+// Path: Quest/app/%28tabs%29/settings/_layout.tsx
 
