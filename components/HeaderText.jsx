@@ -12,4 +12,5 @@ const HeaderText = (props) => {
 	);
 };
 
+
 export default HeaderText;
