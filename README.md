@@ -1,5 +1,5 @@
 # Quest
-
+![Application Design](startup.png)
 Welcome to Quest, the ultimate mobile application designed to transform your daily routine into an epic adventure! Quest is not just an app; it's a journey tailored to your interests, allowing you to conquer daily challenges, improve yourself, and level up your skills.
 
 # Features
